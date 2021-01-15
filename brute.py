@@ -68,7 +68,7 @@ passwordlist = str(raw_input(WW+" â€¢Ingrese el archivo de Contraseñas\033[
 #login = 'https://m.facebook.com/login/?ref=dbl&fl&refid=8'
 
 
-login = 'https://www.facebook.com/login.php?login_attempt=1'
+login = 'https://m.facebook.com/login/?next&ref=dbl&fl&refid=8'
 
 
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
